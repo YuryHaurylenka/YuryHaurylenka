@@ -2,7 +2,8 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=190&section=header&text=Yury%20Haurylenka&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Building%20useful%20products&descAlignY=60&descSize=15" width="100%" alt="Yury Haurylenka profile header" />
+  <h1>Yury Haurylenka</h1>
+  <p><strong>Python Backend Developer</strong> · Building useful products</p>
 
   <a href="https://github.com/YuryHaurylenka">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=620&lines=Python+%7C+FastAPI+%7C+Django;APIs%2C+databases+%26+backend+systems;Learning%2C+building%2C+shipping." alt="Typing introduction" />
