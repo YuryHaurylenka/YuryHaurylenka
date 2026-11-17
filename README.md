@@ -6,7 +6,7 @@
   <p><strong>Python Backend Developer</strong> · Building useful products</p>
 
   <a href="https://github.com/YuryHaurylenka">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=620&lines=Python+%7C+FastAPI+%7C+Django;APIs%2C+databases+%26+backend+systems;Learning%2C+building%2C+shipping." alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=620&lines=Python+%7C+FastAPI+%7C+AI;Backend+APIs+%26+intelligent+applications;Learning+%2C+building+%2C+shipping." alt="Typing introduction" />
   </a>
 
   <p>
@@ -18,18 +18,18 @@
 
 ## About
 
-I'm a developer focused on **Python backend engineering** and building products from idea to deployment. I enjoy designing APIs, working with relational databases, and turning real-world problems into maintainable software.
+I'm focused on **Python backend development and AI-powered applications**. I build APIs, work with databases, and explore practical ways to integrate AI into useful products.
 
-- 🐍 Main focus: Python, FastAPI and Django
-- 🧩 Interested in backend architecture, API design and AI-powered products
-- 🗄️ Working with PostgreSQL, SQLAlchemy and Supabase
+- 🐍 Core stack: Python, FastAPI, SQLAlchemy and PostgreSQL
+- 🤖 Focus areas: AI integrations, LLM-powered applications and automation
+- 🧩 Interested in backend architecture, API design and reliable services
 - 🚀 Building **DUO** — a platform for discovering things to do together
 - 📚 Always learning, improving engineering fundamentals and shipping projects
 
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,sqlite,sqlalchemy,docker,git,github,linux,postman,html,css,js,react,vite&perline=9" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,sqlite,docker,git,github,linux&perline=9" alt="Technology stack" />
 </p>
 
 ## Featured projects
@@ -39,7 +39,7 @@ I'm a developer focused on **Python backend engineering** and building products 
     <td width="50%" valign="top">
       <h3>💜 DUO — Minsk Date Ideas</h3>
       <p>A discovery and planning platform for couples. Explore places, save favorites, plan shared activities and make decisions together.</p>
-      <p><strong>Focus:</strong> React, Vite, FastAPI, Supabase, PostgreSQL</p>
+      <p><strong>Backend:</strong> Python, FastAPI, Supabase, PostgreSQL</p>
       <a href="https://minsk-date-ideas.vercel.app"><img src="https://img.shields.io/badge/Visit%20live%20app-Open-6d5dfc?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit DUO" /></a>
       <a href="https://github.com/YuryHaurylenka/duo-minsk"><img src="https://img.shields.io/badge/Source%20code-GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="DUO source" /></a>
     </td>
